@@ -1,9 +1,6 @@
 name = "sveltia-cms-auth"
 main = "src/index.js"
 compatibility_date = "2026-11-11"
-name = "sveltia-cms-auth"
-main = "src/index.js"
-compatibility_date = "2026-11-11"
 
 [vars]
 ALLOWED_DOMAINS = "diversity-in-health-website.diversityinhealth.workers.dev"
